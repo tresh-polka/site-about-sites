@@ -5,4 +5,4 @@
 
 ![alt text](images/about-site.png)
 
-[перейти на сайт]()
+[перейти на сайт](https://tresh-polka.github.io/site-about-sites/)

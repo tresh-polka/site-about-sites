@@ -1,0 +1,11 @@
+{
+  "name": "site-about-sites",
+  "version": "1.0.0",
+  "description": "Здесь собраны ресурсы, которые по тем или иным причинам показались интересными автору. Возможно, что-то покажется интересным и вам.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polina",
+  "license": "ISC"
+}

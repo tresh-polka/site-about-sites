@@ -78,8 +78,8 @@ h3 > a:visited {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 100vh;
-  padding: 0 5vw;
+  padding: 1vw 5vw;
+  min-height: 100vh;
 }
 
 .main-information-block {
@@ -99,7 +99,7 @@ h3 > a:visited {
 }
 
 .photo {
-  width: 45vw;
+  width: 40vw;
 }
 
 .navigation {
@@ -124,7 +124,7 @@ h3 > a:visited {
 }
 
 .navigation-img {
-  width: 45vw;
+  width: 40vw;
 }
 
 li > a:link {
@@ -173,7 +173,7 @@ li > a:visited {
 }
 
 .about-site{
-  width: 45vw;
+  width: 40vw;
 }
 
 .block-title {
@@ -211,6 +211,6 @@ footer > h3{
   gap: 50px;
   display: flex;
   align-items: center;
-  padding-top: 2vw;
+  padding-top: 5vw;
 }
 
